@@ -1,1 +1,358 @@
-# Nazeermalik
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>PortFolio</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="port.css" />
+  </head>
+  <body>
+    <!-- header-section -->
+
+    <header>
+      <div class="head">
+        <h2>Nazeer-Malik</h2>
+      </div>
+      <ul class="menu" id="menu">
+        <li><a href="port.html">Home</a></li>
+        <li><a href="pa.html">About</a></li>
+        <li><a href="pc.html">Contact</a></li>
+        <li><a href="">Gallery</a></li>
+        <li><a href="pp.html">Project</a></li>
+      </ul>
+      <ul class="icon">
+        <li>
+          <a href=""><i class="bx bx-user"></i></a>
+        </li>
+        <li>
+          <a href=""><i class="bx bx-search-alt-2"></i></a>
+        </li>
+        <li>
+          <a href=""><i class="bx bx-webcam"></i></a>
+        </li>
+        <li>
+          <a href="#navmenu" id="navmenu"><i class="bx bx-menu"></i></a>
+        </li>
+      </ul>
+    </header>
+
+    <!-- Home Section -->
+
+    <section class="Home">
+      <div class="container">
+        <div class="wraper">
+          <h1>Hi,<br />I Am Nazeer Malik</h1>
+          <h2>Front-End Developer</h2>
+          <p>
+            "Creative frontend developer specializing in crafting dynamic,
+            user-friendly<br />&nbsp&nbsp and websites with modern technologies
+            for engaging digital experiences."
+          </p>
+          <a href="">LearnMore</a>
+          <p>
+            <i class="bx bxl-facebook"></i>
+            <i class="bx bxl-linkedin"></i>
+            <i class="bx bxl-instagram-alt"></i>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Education Section -->
+    <section class="home1">
+      <div class="text">
+        <h1>Education</h1>
+      </div>
+
+      <div class="wrapper">
+        <div class="box">
+          <h2>Matriculation</h2>
+          <p>
+            Government Boys Secondary Shcool<br />
+            Umer Daho Sarhad District Ghotki
+          </p>
+          <p>Group:Science</p>
+          <p>Passing-Year:2018</p>
+        </div>
+
+        <div class="box">
+          <h2>Intermediate</h2>
+          <p>
+            Government Higher Secondary Shcool<br />
+            Umer Daho Sarhad District Ghotki
+          </p>
+          <p>Group:Pre-Engineering</p>
+          <p>Passing-Year:2021</p>
+        </div>
+
+        <div class="box">
+          <h2>Bachelor</h2>
+          <p>
+            Shah Abdul Latif University<br />
+            Campus Ghotki District Ghotki
+          </p>
+          <p>Department:ComputerScience</p>
+          <p>Passing-Year:2026</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skill Section -->
+    <section class="home2">
+      <div class="text1">
+        <h1>My Skills</h1>
+      </div>
+
+      <div class="wrapper1">
+        <div class="box1">
+          <img src="pi/h.jfif" />
+          <div class="description">
+            <h2>Html5</h2>
+            <p>
+              "HTML is a markup language for structuring web pages and
+              content."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/c.jfif" />
+          <div class="description">
+            <h2>CSS3</h2>
+            <p>
+              "CSS3 is a stylesheet language used to style and layout web
+              pages."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/j.png" />
+          <div class="description">
+            <h2>JavaScript</h2>
+            <p>
+              "JavaScript is a programming language used to create interactive
+              web features."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/b.png" />
+          <div class="description">
+            <h2>BootStrap</h2>
+            <p>
+              "Bootstrap is a framework for building responsive and mobile-first
+              web designs."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/j1.png" />
+          <div class="description">
+            <h2>JQuery</h2>
+            <p>
+              "jQuery is a JavaScript library that simplifies HTML document
+              traversal and manipulation."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/p1.png" />
+          <div class="description">
+            <h2>Php</h2>
+            <p>
+              "PHP is a server-side scripting language used for dynamic web page
+              creation."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/li.png" />
+          <div class="description">
+            <h2>Laravel</h2>
+            <p>
+              "Laravel is a PHP framework for developing web applications with
+              elegant syntax."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+
+        <div class="box1">
+          <img src="pi/m.avif" />
+          <div class="description">
+            <h2>MySQL</h2>
+            <p>
+              "MySQL is an open-source relational database management system for
+              data storage."<br />Experience:InterMediate
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Project Section -->
+    <section class="home3">
+      <div class="text2">
+        <h1>My Project</h1>
+      </div>
+
+      <div class="wrapper2">
+        <div class="box2">
+          <img src="pi/1.PNG" />
+          <h3>Ecommerce Website</h3>
+          <div class="description1">
+            <p>
+              Date:20-07-2024<br />
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat,
+              dolorum.
+            </p>
+            <a href="../Ecommerce/commer.html">SeeProject</a>
+          </div>
+        </div>
+
+        <div class="box2">
+          <img src="pi/watch.PNG" />
+          <h3>Ecommerce Website</h3>
+          <div class="description1">
+            <p>
+              Date:20-07-2024<br />
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat,
+              dolorum.
+            </p>
+            <a href="../Template/template.html">SeeProject</a>
+          </div>
+        </div>
+
+        <div class="box2">
+          <img src="pi/p.PNG" />
+          <h3>PizzaHut Website</h3>
+          <div class="description1">
+            <p>
+              Date:20-07-2024<br />
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat,
+              dolorum.
+            </p>
+            <a href="../Malik/burger.html">SeeProject</a>
+          </div>
+        </div>
+
+        <div class="box2">
+          <img src="pi/Capture.PNG" />
+          <h3>BookStore Website</h3>
+          <div class="description1">
+            <p>
+              Date:20-07-2024<br />
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat,
+              dolorum.
+            </p>
+            <a href="../Book/book.html">BookStore</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Service Section -->
+    <section class="home4">
+      <div class="text3">
+        <h1>Our Services</h1>
+      </div>
+
+      <div class="wrapper3">
+        <div class="box3">
+          <img src="pi/c1.jfif" />
+          <h2>Custom Website</h2>
+          <div class="description2">
+            <p>Making A Custom Website</p>
+            <p>"Tailored design for unique web presence."</p>
+            <a href="#">SeeMore</a>
+          </div>
+        </div>
+
+        <div class="box3">
+          <img src="pi/e1.png" />
+          <h2>E-commerce Website</h2>
+          <div class="description2">
+            <p>Making A E-commerce Website</p>
+            <p>"Transforming shopping with seamless online experiences."</p>
+            <a href="#">SeeMore</a>
+          </div>
+        </div>
+
+        <div class="box3">
+          <img src="pi/p2.jfif" />
+          <h2>Portfolio Website</h2>
+          <div class="description2">
+            <p>Making A Portfolio Website</p>
+            <p>"Showcasing your best work with style."</p>
+            <a href="#">SeeMore</a>
+          </div>
+        </div>
+
+        <div class="box3">
+          <img src="pi/l1.jpg" />
+          <h2>Landing Page Website</h2>
+          <div class="description2">
+            <p>Making A Landing Page Website</p>
+            <p>"Engaging entry point for first impressions."</p>
+            <a href="#">SeeMore</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="home5">
+      <div class="text4">
+        <h1>Contact Me</h1>
+      </div>
+      <div class="text6">
+        <h4>
+          Call for a Consulation of (92+)0327-6735249<br />
+          or fill out the form below
+        </h4>
+      </div>
+
+      <center>
+        <div class="wrapper4">
+          <form onsubmit="return formValidation()" id="form">
+            <div class="form-group">
+              <input type="text" id="name" placeholder="EnterName*" />
+            </div>
+            <br />
+            <div class="form-group">
+              <input type="email" id="email" placeholder="EnterEmail*" />
+            </div>
+            <br />
+            <div class="form-group">
+              <input type="number" id="number" placeholder="EnterNumber*" />
+            </div>
+            <br />
+            <div class="form-group">
+              <textarea id="message" placeholder="message....."></textarea>
+            </div>
+            <br />
+            <div class="form-group">
+              <input type="submit" id="click" />
+            </div>
+          </form>
+        </div>
+      </center>
+    </section>
+
+    <!-- footer section -->
+
+    <footer>
+      <h2>@CopyRight 2024</h2>
+    </footer>
+    <script src="port.js"></script>
+  </body>
+</html>
